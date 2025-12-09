@@ -14,5 +14,6 @@ buildNpmPackage {
     description = "An MCP for Godot that lets you create and edit games in the Godot game engine";
     homepage = "https://github.com/ee0pdt/Godot-MCP";
     license = licenses.mit;
+    mainProgram = "godot-mcp-server";
   };
 }
